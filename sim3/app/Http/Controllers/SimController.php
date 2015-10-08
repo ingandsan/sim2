@@ -28,7 +28,7 @@ class SimController extends Controller
      
      return view ("historico");   //
     }
-
+    
     public function coyuntura()
     {
      

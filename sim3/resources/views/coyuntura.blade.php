@@ -14,7 +14,7 @@
   <!-- Wrapper for slides -->
   <div class="carousel-inner" role="listbox">
     <div class="item active">
-      <img src="/images/img_chania.jpg" alt="Chania">
+      <img src="images/img_chania.jpg" alt="Chania">
       <div class="carousel-caption">
         <h3>Chania</h3>
         <p>The atmosphere in Chania has a touch of Florence and Venice.</p>
@@ -38,7 +38,8 @@
     </div>
 
     <div class="item">
-      <img src="/images/img_flower2.jpg" alt="Flower">
+      <object width="100%" height="100%" data="/historico/itaee"></object>
+      
       <div class="carousel-caption">
         <h3>Flowers</h3>
         <p>Beatiful flowers in Kolymbari, Crete.</p>
